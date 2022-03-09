@@ -1,0 +1,12 @@
+{
+  "name": "ca.lonegoat.fungus",
+  "version": "0.2.0",
+  "displayName": "Fungus 2021",
+  "description": "Fungus for Unity 2021 and new input system. Unaffiliated fork of develop branch.",
+  "unity": "2019.1",
+  "author": {
+    "name": "Evan Sklarski",
+    "email": "esklarski@lonegoat.ca",
+    "url": "https://github.com/snozbot/fungus/tree/develop"
+  }
+}
